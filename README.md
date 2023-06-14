@@ -1,5 +1,5 @@
 ### Implementation of Voice over Internet Protocol (VOIP) in Python3
-It is an implementation of Voice over Internet Protocol in Python3.
+It is an implementation of Voice over Internet Protocol in Python3. Developing it further as a web app using Flask python module.
 
 ### Running instructions
 - Create a virtual environment, using `python -m venv env`
